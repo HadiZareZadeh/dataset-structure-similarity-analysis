@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.ipynb_checkpoints
+.DS_Store
+*.pkl
+*.h5
+*.hdf5
